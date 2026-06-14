@@ -54,7 +54,7 @@ The **lower** the grade number, the **higher** the precision:
 ## 💡 Practical Recommendations
 
 1. **Design in clearance** for mating parts (make holes 0.2–0.3 mm larger than the corresponding shaft)
-2. **Account for material shrinkage** (PLA ~0.2–0.5%, ABS ~0.5–0.8%)
+2. **Account for material shrinkage** (PLA ~0.2–0.5%, PETG ~0.2–1.0%, TPU 95A ~0.4–1.4%)
 3. **Improve accuracy** with post-processing: reaming holes, sanding surfaces
 4. **Calibrate the printer** before printing critical parts
 
