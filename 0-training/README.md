@@ -1,4 +1,4 @@
-# Training Ender‑3 V3 SE
+# Ender‑3 V3 SE
 
 ## Specifications
 
@@ -74,5 +74,5 @@ Do not cut power while the nozzle is still hot (200+ °C) with fans off — this
 
 ### Long-Term Storage
 
-- Retract and remove filament from the hotend
+Retract and remove filament from the hotend
 
